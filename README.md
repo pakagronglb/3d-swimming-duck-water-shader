@@ -4,6 +4,11 @@ A beautiful 3D scene featuring a swimming duck in a pool with an advanced water 
 
 
 
+https://github.com/user-attachments/assets/cb89adbf-3e47-4720-a878-426c336890ff
+
+
+
+
 ## Features 🚀
 
 - Custom water shader with animated foam effects
